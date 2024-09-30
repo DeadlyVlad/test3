@@ -1,0 +1,117 @@
+.wrapper{
+    display: flex;
+    align-items: center;
+}
+
+.button{
+    display: flex;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    height: 21px;
+    width: 64px;
+    margin-left: 41px;
+    margin-right: 41px;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.wrapperbutt{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    margin-left: auto;
+}
+
+.wrappertext{
+    display: flex;
+    align-items: start;
+}
+
+.button1{
+    background-color: black;
+    color: white;
+    border: none;
+    cursor: pointer;
+    height: 44px;
+    width: 101px;
+    margin-left: 68px;
+}
+
+.button2{
+    background-color: black;
+    color: white;
+    border: none;
+    cursor: pointer;
+    height: 40px;
+    width: 200px;
+}
+.button3{
+    background-color: white;
+    cursor: pointer;
+    height: 40px;
+    width: 200px; 
+}
+
+.textcenter{
+display: flex;
+padding-top: 100px;
+
+}
+.photo{
+    display: flex;
+    height: auto;
+    width: auto;
+    align-items: end;
+}
+.text{
+    height: auto;
+    width: auto;
+
+}
+
+img{
+    width: 875px;
+    height: 625px;
+}
+body{
+    margin-top: 30px;
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+.scroll{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Hello{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+
+.Shop{
+    color: white;
+    -webkit-text-stroke: 1px black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+
+.Welcome{
+    font-weight: 400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+
+.HelloShop{
+    font-weight: 900;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.info{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.scrollchevron{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
